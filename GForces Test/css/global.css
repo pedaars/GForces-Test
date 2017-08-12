@@ -37,7 +37,7 @@ table p { padding:0px; }
 
 /*.container { width: 2000px; height: 1244px; }*/
 .Container {
-	width: 2000px;
+	max-width: 2000px;
 	height: 1244px;
 	margin: auto;
 }
